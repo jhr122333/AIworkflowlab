@@ -1,4 +1,4 @@
-# AX Enablement Hub
+# AI Workkflow Lab
 
 현업 사용자가 AI를 실제 업무에 적용할 수 있도록 돕는 AX 교육 / 실습 / 워크숍 지원용 웹페이지입니다.
 
